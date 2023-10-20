@@ -1,0 +1,5 @@
+*.pth
+*.pkl
+runs
+output
+stanford_cars
